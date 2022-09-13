@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="763970d8-7361-4e09-ac86-b0cb05c1ca8a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/aeropuerto.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aeropuerto/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aeropuerto/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aeropuerto/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aeropuerto/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aeropuerto/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aeropuerto_app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aeropuerto_app/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aeropuerto_app/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aeropuerto_app/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aeropuerto_app/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aeropuerto_app/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aeropuerto_app/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aeropuerto_app/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aeropuerto_app/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/identifier.sqlite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/aeropuerto_app/models.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2DUJAfkZMCJiLBi3wOPIueGhgns" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Dell-Pc/Downloads/aeropuerto-main/aeropuerto-main&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;sqlite&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dell-Pc\PycharmProjects\aeropuerto\aeropuerto_app" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="aeropuerto" type="Python.DjangoServer" factoryName="Django server">
+      <module name="aeropuerto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="aeropuerto.settings" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Dell-Pc\PycharmProjects\aeropuerto\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="763970d8-7361-4e09-ac86-b0cb05c1ca8a" name="Changes" comment="" />
+      <created>1660747587126</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660747587126</updated>
+      <workItem from="1660747589224" duration="6286000" />
+      <workItem from="1660791066730" duration="172000" />
+      <workItem from="1660825409955" duration="52000" />
+      <workItem from="1660825475516" duration="5955000" />
+      <workItem from="1661255900407" duration="2095000" />
+      <workItem from="1661262930617" duration="1405000" />
+      <workItem from="1661292051783" duration="10000" />
+      <workItem from="1661350382943" duration="5527000" />
+      <workItem from="1661359927408" duration="4884000" />
+      <workItem from="1661437459097" duration="1418000" />
+      <workItem from="1661438905618" duration="86000" />
+      <workItem from="1661467665259" duration="782000" />
+      <workItem from="1661862459985" duration="7704000" />
+      <workItem from="1661945111500" duration="9839000" />
+      <workItem from="1661990282436" duration="5855000" />
+      <workItem from="1662042832047" duration="595000" />
+      <workItem from="1662067732221" duration="4522000" />
+      <workItem from="1662488520377" duration="2079000" />
+      <workItem from="1662557699270" duration="10453000" />
+      <workItem from="1662644680968" duration="1902000" />
+      <workItem from="1662647100256" duration="1254000" />
+      <workItem from="1663095287366" duration="646000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/aeropuerto_app/models.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

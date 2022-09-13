@@ -15,6 +15,9 @@ class Piloto(models.Model):
     nombre_piloto = models.CharField(max_length=50)
     horas_vuelo_piloto = models.IntegerField()
 
+    def __str__(self):
+        return self.nombre_piloto
+
 class Tripulacion(models.Model):
     codigo_tripulante = models.CharField(max_length=20, unique=True)
     nombre_tripulante = models.CharField(max_length=50)
